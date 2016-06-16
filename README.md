@@ -26,7 +26,7 @@ This code implements the MEMF algorithm	described in the following paper
 	This code is for research purposes only, if you want to use it for commercial purpose
 	please contact us.
 	
-	Contact: thalaiyasingam.ajanthan@nicta.com.au
+	Contact: thalaiyasingam.ajanthan@data61.csiro.au
 -------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------
