@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h1 id="memory-efficient-max-flow-for-multi-label-submodular-mrfs">Memory Efficient Max Flow for Multi-label Submodular MRFs</h1>
+<h2 id="abstract">Abstract</h2>
+<p>Multi-label submodular Markov Random Fields (MRFs) have been shown to be solvable using max-flow based on an encoding of the labels proposed by Ishikawa, in which each variable <span class="math inline"><em>X</em><sub><em>i</em></sub></span> is represented by nodes (where is the number of labels) arranged in a column. However, this method in general requires <span class="math inline">2ℓ<sup>2</sup></span> edges for each pair of neighbouring variables. This makes it inapplicable to realistic problems with many variables and labels, due to excessive memory requirement. In this paper, we introduce a variant of the max-flow algorithm that requires much less storage. Consequently, our algorithm makes it possible to optimally solve multi-label submodular problems involving large numbers of variables and labels on a standard computer.</p>
+<h2 id="publication">Publication</h2>
+<p>Memory Efficient Max Flow for Multi-label Submodular MRFs.<br />
+Thalaiyasingam Ajanthan, Richard Hartley, and Mathieu Salzmann.<br />
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2016.</p>
+<p><a href="docs/memf.pdf" title="pdf">pdf</a> <a href="dosc/memf_supp.pdf" title="supplementary">supplementary</a> <a href="docs/memf_poster.pdf" title="poster">poster</a> <a href="https://github.com/tajanthan/memf" title="code">code</a></p>
+</body>
+</html>
