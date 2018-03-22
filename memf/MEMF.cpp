@@ -16,13 +16,13 @@ MEMF<nodeid, labelid, captype>::MEMF(nodeid width, nodeid height, labelid labels
 		"* For research purposes only!                      *\n"
 		"* If you want to use it for commercial purposes    *\n"
 		"* please contact us.                               *\n"
-		"* Contact: thalaiyasingam.ajanthan@data61.csiro.au *\n"
+		"* Contact: ajanthan@robots.ox.ac.uk                *\n"
 		"****************************************************\n";
 	fout << "\n****************************************************\n"
 		"* For research purposes only!                      *\n"
 		"* If you want to use it for commercial purposes    *\n"
 		"* please contact us.                               *\n"
-		"* Contact: thalaiyasingam.ajanthan@data61.csiro.au *\n"
+		"* Contact: ajanthan@robots.ox.ac.uk                *\n"
 		"****************************************************\n";
 	std::cout << "\n########## MEMF ##########\n";
 	fout << "\n########## MEMF ##########\n";
