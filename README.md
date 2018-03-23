@@ -29,3 +29,4 @@ To assist the user, example.cpp, Makefile and sample data files are provided. Th
 ``` 
 memf.exe 10 10 5 <sample>/toy_unary_10_10_5.txt <sample>/toy_binary_4_10_10.txt <sample>/toy_binaryPot_10_10_5_l2.txt
 ```
+[Code Ocean](https://codeocean.com/2018/03/22/memf-colon-memory-efficient-max-flow-for-multi-label-submodular-mrfs/code)
